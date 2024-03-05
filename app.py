@@ -6,3 +6,5 @@ def luas_segitiga():
     print("luas segitiga adalah: ", luas)
 
 luas_segitiga()
+
+//file ini telah diedit
